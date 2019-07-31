@@ -1,2 +1,5 @@
 # hello-world
-Hello World Guide
+
+Hello World!
+
+I am Sam. I am a student at Ivy Tech. 
